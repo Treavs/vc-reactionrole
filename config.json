@@ -1,0 +1,8 @@
+{
+  "channel": "Allgemein",
+  "roles": {
+    "gear": "Funktion1",
+    "heart": "Funktion2",
+    "yellow-heart": "Funktion3"
+  }
+}
